@@ -1,0 +1,22 @@
+.container {
+    border-top: 1px solid #c1c1c1;
+  }
+  
+  .border {
+    border: 1px solid #c1c1c1;
+    margin-right: 23px;
+  }
+  .search {
+    background: #f0f0f0;
+    margin: 10px;
+    border-radius: 12px;
+    height: 35px;
+  }
+  .search > input {
+    background: transparent;
+    border: none;
+  }
+  :active,
+  :focus {
+    outline: none;
+  }

@@ -1,0 +1,43 @@
+.container {
+    margin-top: 57px;
+    border-top: #c1c1c1 1px solid;
+  }
+  
+  .left {
+    width: 75%;
+  }
+  
+  .right {
+    margin-left: 38px;
+    width: 25%;
+  }
+  
+  .contact {
+    margin-top: 76px;
+  }
+  
+  .inputHeading {
+    width: 40%;
+  }
+  
+  .inputType {
+    background: rgba(126, 177, 128, 0.3);
+    border-radius: 30px;
+    width: 60%;
+  }
+  
+  .button {
+    width: 157px;
+    background: #7eb180;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 40px;
+  }
+  
+  .text {
+    color: #a4a4a4;
+  }
+  
+  .contactText {
+    color: #413b3b;
+  }
+  
